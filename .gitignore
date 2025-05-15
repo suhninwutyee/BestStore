@@ -1,0 +1,11 @@
+# Compiled code and build artifacts
+bin/
+obj/
+
+# IDE-specific settings
+.vscode/
+.idea/
+.vs/
+
+# Frontend dependencies
+node_modules/
